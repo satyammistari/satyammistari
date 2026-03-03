@@ -28,7 +28,7 @@ ML/MLOps/LLMOps Engineer, also works in distributed ML systems( feels cool while
 ### end-to-end mlops projects:
 
 - [**ZenML Support Agent**](https://github.com/satyammistari/End-to-End-Support-Agent-MLOps-) — A production-ready agent that can help you with your ZenML questions.
-- 
+  
 ### research paper implementations:
 
 - [**Implement-Research-Papers-into-from-scratch Public**](https://github.com/satyammistari/Implement-Research-Papers-into-from-scratch) — 
@@ -46,10 +46,13 @@ ML/MLOps/LLMOps Engineer, also works in distributed ML systems( feels cool while
 
 ### My Philosophy
 
-**Understand before abstracting.** I implement papers and build systems from scratch not because it's always practical, but because it's the only way to know what's actually happening inside the abstraction. When something breaks at 3am, that knowledge is the difference between a 10-minute fix and a 3-hour debugging session.
-**Observability is a first-class concern.** A training run with no metrics is a black box. A serving system with no traces is a liability. I treat instrumentation as part of the implementation, not a follow-up task.
-**Performance claims require benchmarks.** "It's faster" means nothing without a number, a workload, and a baseline. I benchmark against real conditions, report p99 not just mean, and document what I didn't test.
-**Simplicity over cleverness.** The best infrastructure is the kind that a new teammate can understand in 20 minutes. I write code for the engineer who has to debug it at 2am — often that engineer is me.
+-**Understand before abstracting.** I implement papers and build systems from scratch not because it's always practical, but because it's the only way to know what's actually happening inside the abstraction. When something breaks at 3am, that knowledge is the difference between a 10-minute fix and a 3-hour debugging session.
+
+-**Observability is a first-class concern.** A training run with no metrics is a black box. A serving system with no traces is a liability. I treat instrumentation as part of the implementation, not a follow-up task.
+
+-**Performance claims require benchmarks.** "It's faster" means nothing without a number, a workload, and a baseline. I benchmark against real conditions, report p99 not just mean, and document what I didn't test.
+
+-**Simplicity over cleverness.** The best infrastructure is the kind that a new teammate can understand in 20 minutes. I write code for the engineer who has to debug it at 2am — often that engineer is me.
 
 ---
 
