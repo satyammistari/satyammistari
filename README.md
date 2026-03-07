@@ -6,9 +6,10 @@ ML/MLOps/LLMOps Engineer, also works in distributed ML systems( feels cool while
   <a href="https://www.linkedin.com/in/satyammistari" target="_blank">linkedin</a> •
   <a href="https://github.com/satyammistari" target="_blank">github</a>
 </p>
-![Uploading Animations_sprites - Paulo Dos Reis.gif…]()
+ 
 
 ---
+![Animations_sprites - Paulo Dos Reis](https://github.com/user-attachments/assets/728e591a-467d-4859-9e05-dd1d2d0ba872)
 
 ### currently exploring:
 - distributed ML training and inference systems, model serving infrastructure, LLM optimization and cloud-native ML platforms.
