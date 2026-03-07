@@ -6,6 +6,7 @@ ML/MLOps/LLMOps Engineer, also works in distributed ML systems( feels cool while
   <a href="https://www.linkedin.com/in/satyammistari" target="_blank">linkedin</a> •
   <a href="https://github.com/satyammistari" target="_blank">github</a>
 </p>
+![Uploading Animations_sprites - Paulo Dos Reis.gif…]()
 
 ---
 
