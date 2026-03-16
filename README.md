@@ -30,6 +30,7 @@ ML/MLOps/LLMOps Engineer, also works in distributed ML systems( feels cool while
 ### end-to-end mlops projects:
 
 - [**ZenML Support Agent**](https://github.com/satyammistari/End-to-End-Support-Agent-MLOps-) — A production-ready agent that can help you with your ZenML questions.
+- [**End-to-End-ML-Feature-Pipeline-Online-Serving**](https://github.com/satyammistari/End-to-End-ML-Feature-Pipeline-Online-Serving) — Production-grade ML feature engineering pipeline that computes real-time and batch features from raw events, stores them in a feature store, and serves latency for model inference.
   
 ### research paper implementations:
 
